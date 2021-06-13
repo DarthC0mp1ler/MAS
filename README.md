@@ -46,3 +46,6 @@ Modeling and Analysis of Information Systems (Modelowanie i Analiza Systemów in
   - RM - inheritance
     ### Class Diagram:
   ![Class diagram for mp5](/MP5/Projects.png)
+
+## Final project
+Cannot be uploaded as the deadline still has not passed.
