@@ -1,0 +1,11 @@
+1. Person is abstract
+2. Ruler gets id from Person (superclass)
+3. Governor gets id from Person (superclass)
+4. Landlord gets id from Person (superclass)
+5. Governor repository method FindByRegion(region):List<Governor>
+6. Fraction reasons List -> Set
+7. Fraction build() and builder() -> create fraction
+8. MapComponent abstract
+9. Added birthDate to person
+10. Added age to person
+
