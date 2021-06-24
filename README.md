@@ -48,4 +48,7 @@ Modeling and Analysis of Information Systems (Modelowanie i Analiza Systemów in
   ![Class diagram for mp5](/MP5/Projects.png)
 
 ## Final project
-Cannot be uploaded as the deadline still has not passed.
+  Implementation of complex, custom designed system.
+  Documentation of the system with all the diagrams and description of design decisions is in the FinalProject folder.
+  ![Link to final project documentation](FinalProject/MAS_12c_Zinevych_Pavlo_s19204%20(2).pdf)
+  Implemented using Java, Hibernate, Lombok
